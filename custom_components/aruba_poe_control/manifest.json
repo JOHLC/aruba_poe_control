@@ -1,0 +1,9 @@
+{
+  "domain": "aruba_poe_control",
+  "name": "Aruba PoE Control",
+  "version": "1.0",
+  "documentation": "https://www.home-assistant.io/integrations/aruba_poe_control",
+  "requirements": ["requests"],
+  "dependencies": [],
+  "codeowners": ["@your_username"]
+}
