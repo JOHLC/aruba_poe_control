@@ -1,0 +1,13 @@
+{
+  "name": "Aruba PoE Control",
+  "description": "A Home Assistant integration to control and monitor PoE ports on Aruba 2530 switches.",
+  "codeowners": ["@JOHLC"],
+  "dependencies": [],
+  "documentation": "https://github.com/JOHLC/aruba_poe_control",
+  "download_url": "https://github.com/JOHLC/aruba_poe_control/archive/main.zip",
+  "category": "Integration",
+  "homeassistant": "2021.3.0",
+  "version": "1.0.0",
+  "iot_class": "Local Push",
+  "requirements": ["requests"]
+}
